@@ -8,6 +8,7 @@
 - Clase conexion
 - Patron singleton (evitar multiples instancias de la clase)
 - Ejecutar queries en las rutas
+
 Paquetes node
 ``` npm install```
 
